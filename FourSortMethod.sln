@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSortMethod", "FourSortMethod\FourSortMethod.csproj", "{E4A32976-D60E-4ACC-83F1-117C6EEE5264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSortMethod", "UnitTestSortMethod\UnitTestSortMethod.csproj", "{A3F7FBBE-8118-4934-8E8E-CBE5D8A45BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A32976-D60E-4ACC-83F1-117C6EEE5264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A32976-D60E-4ACC-83F1-117C6EEE5264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A32976-D60E-4ACC-83F1-117C6EEE5264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A32976-D60E-4ACC-83F1-117C6EEE5264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F7FBBE-8118-4934-8E8E-CBE5D8A45BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F7FBBE-8118-4934-8E8E-CBE5D8A45BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F7FBBE-8118-4934-8E8E-CBE5D8A45BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F7FBBE-8118-4934-8E8E-CBE5D8A45BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5F57565-0301-44E2-AF20-5A78466DD9FC}
+	EndGlobalSection
+EndGlobal
